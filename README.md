@@ -1,5 +1,4 @@
 # tvu5ISOM215.github.io
-Default website
 <!doctype html>
 <html lang="en">
 <head>
